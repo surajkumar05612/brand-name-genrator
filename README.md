@@ -4,7 +4,7 @@
 
 - It&#39;s a simple python program which takes some input from user and gives one name for their band as output.
 
-Live Quiz:-
+Live Link:-
 
 [https://repl.it/@DevSuraj/band-name-generator-start?embed=1&amp;output=1](https://repl.it/@DevSuraj/band-name-generator-start?embed=1&amp;output=1)
 
